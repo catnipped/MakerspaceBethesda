@@ -16,10 +16,5 @@ public class NewBehaviourScript : MonoBehaviour
     {
         KeyCode RightKey = KeyCode.D;
         KeyCode LeftKey = KeyCode.A;
-
-        if(Input.GetKey (RightKey))
-    {
-        GetComponent<Rigidbody2D>().AddForce(Vector2.right);
     }
-    
 }
