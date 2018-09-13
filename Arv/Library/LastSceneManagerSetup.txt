@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/arv sak.unity
+  isLoaded: 1
+  isActive: 1
